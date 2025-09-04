@@ -1,2 +1,7 @@
 # kgcoding
 learning git from kg coding
+
+
+added second line
+
+added third line
